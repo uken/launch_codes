@@ -14,7 +14,7 @@ GEM
       yajl-ruby (~> 1.0)
     http_parser.rb (0.5.3)
     iobuffer (1.1.2)
-    json (1.7.7)
+    json (2.3.1)
     msgpack (0.4.7)
     newrelic_rpm (3.5.7.59)
     puma (1.6.3)
